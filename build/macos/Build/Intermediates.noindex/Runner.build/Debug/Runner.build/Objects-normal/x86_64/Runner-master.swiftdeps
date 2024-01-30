@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "9307de0ec1d7f49f57ad0785c07d79c220fd7278fffb86f2d8037fb3a1bfa06d"
+build_start_time: [1670940824, 540358066]
+build_end_time: [1670940830, 160870075]
+inputs:
+  "/Users/marcubale/Documents/GitHub/MovieAppFlutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1670940783, 621634960]
+  "/Users/marcubale/Documents/GitHub/MovieAppFlutter/macos/Runner/AppDelegate.swift": [1664994290, 329265594]
+  "/Users/marcubale/Documents/GitHub/MovieAppFlutter/macos/Runner/MainFlutterWindow.swift": [1664994290, 333078384]
